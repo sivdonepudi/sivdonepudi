@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi world !! 👋 I am Sivakrishna Donepudi  
 
-<!--
-**sivdonepudi/sivdonepudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+- 🔭 I’m currently working as a Senior Software Engineer at <a href="https://www.nuance.com/healthcare/provider-solutions/speech-recognition/dragon-medical-one.html" target="_blanlk"> Nuance
+
+
+<!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
