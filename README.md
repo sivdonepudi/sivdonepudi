@@ -55,4 +55,11 @@ After started working for couple of years, have studied [Masters in Software Sys
 - Married and blessed with two princes 
 - A movie goer and a Cricket lover
   - Activley playing in Vienna as well, as Age and body is not supporting slowly started officiating matches
-- Very active in Social platforms
+- Very active in Social platforms <a href="https://www.instagram.com/Siv.Donepudi/">
+  <img align="left" alt="Siva's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a> &nbsp;  <a href="https://twitter.com/SivDonepudi">
+  <img align="left" alt="Siva's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a> &nbsp;
+  <a href="https://www.linkedin.com/in/donepudi/">
+  <img align="left" alt="Siva's" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
